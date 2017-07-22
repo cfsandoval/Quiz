@@ -1,12 +1,12 @@
 {
   "questions": [ 
        {
-           "question": "True or False: Java is a strongly typed language.",
+           "question": "1.1 Capacidades instaladas",
            "answers": ["True", "False"],
        	   "correctAnswer": 1
        },
        {
-           "question": "In Java Strings are primitive types.",
+           "question": "1.2 Contrapartes definidas",
            "answers": ["True", "False"],
        	   "correctAnswer": 2
        },
